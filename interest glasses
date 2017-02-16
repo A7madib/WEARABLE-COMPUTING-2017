@@ -1,4 +1,12 @@
-//AHMAD IBRAHIM
+
+//* 
+//Project Title: Interest Glasses
+//Student Name AHMAD IBRAHIM 
+//Course Code & Title: Wearable Computing 
+//OCAD University 
+//Created on [2/15/17]
+//Based on: 
+
 // I used the button example and the fade example in the arduino example library and merged them together 
 // to create a single fade in and out after pressing the button.
 
